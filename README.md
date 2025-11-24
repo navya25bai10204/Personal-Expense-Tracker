@@ -11,6 +11,7 @@ To use it, just run the program and follow the on-screen menu. Your data is auto
 Future upgrades could include adding filters by date or category, generating monthly or weekly spending reports with charts, enhancing security for multiple users, or moving the data storage into a database for handling more data efficiently.
 
 The data is stored in this form:
+<br>
 <img width="650" height="165" alt="image" src="https://github.com/user-attachments/assets/33fe2328-9021-485b-b287-ded7854a5ca7" />
 
 <img width="537" height="655" alt="image" src="https://github.com/user-attachments/assets/7455c63b-7d1f-454e-b47b-211513f6d299" />
